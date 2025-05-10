@@ -1,6 +1,6 @@
 # PCB Schematic and Layout Files for the Pico-mac Project  
 ---------------------------------  
-**Read this in other languages: [English](README.md), [中文](README_CN.md).**
+**Read this in other languages: [English](README.md), [中文](README_CN.md).**  
 This repository contains the PCB schematic and layout files for the pico-mac project. The board was designed using **LCEDA Standard(EasyEDA Standard)**.  I used DeepSeek to translate Chinese readme files to an English ver.
 ![image](https://github.com/MoePunchQWQ/PCB-pico-mac/blob/main/img/102438446646981.png)  
 ![image](https://github.com/MoePunchQWQ/PCB-pico-mac/blob/main/img/Schematic_pico-mac.png) 

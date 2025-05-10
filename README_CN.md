@@ -1,8 +1,9 @@
 # Pico-mac 项目的 PCB 原理图以及 Layout 文件
 ---------------------------------
+**其他语言版本: [English](README.md), [中文](README_zh.md).**
 这个仓库内包含了 pico-mac 项目的 PCB 原理图及 layout 文件。我用了**立创 EDA 标准版**来画板子。
-![](img/102438446646981.png =300x)
-![](img/Schematic_pico-mac.png =700x)
+![image](https://github.com/MoePunchQWQ/PCB-pico-mac/blob/main/img/102438446646981.png)  
+![image](https://github.com/MoePunchQWQ/PCB-pico-mac/blob/main/img/Schematic_pico-mac.png) 
 
 ## 使用
 ---------------------------------

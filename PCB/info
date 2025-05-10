@@ -1,0 +1,271 @@
+{
+  "uuid": "d5d602c1495a20cd0cdd96a9cf7601bf",
+  "path": "Offline/pico-mac",
+  "name": "pico-mac",
+  "content": "A PCB for pico-mac Project\n",
+  "created_at": "2025-05-04 17:55:25",
+  "updated_at": "2025-05-10 17:33:41",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "62f756304c338c2dd8fac56d940ada23",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6be5d997c9ba46aba4e1da72037e9c5a": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 9,
+        "c2a61b532d3c4f3ab40b8cca5d8a7729": 1,
+        "79ffd10abe5d4aab92aba739187eddf3": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "b9b9a06d23174667b20865bf106293e2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "VGA",
+          1,
+          "DSUB-TH_KH-HDR15P-F3.08-VGA",
+          "D-SUB1",
+          {
+            "Manufacturer Part": "KH-HDR15P-F3.08",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3038673"
+          }
+        ],
+        [
+          "PICO",
+          1,
+          "COMM-SMD_L51.0-W21.0-P2.54_SC0916",
+          "M1",
+          {
+            "Manufacturer Part": "PICO",
+            "Manufacturer": "Raspberry Pi(树莓派)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7203002"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "66",
+          6,
+          "R0603",
+          "R2,R3,R4,R5,R6,R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R8,R9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SD",
+          1,
+          "TF-SMD_TF-15-15",
+          "TF1",
+          {
+            "Manufacturer Part": "SD",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023771"
+          }
+        ],
+        [
+          "POWER-TypeC",
+          1,
+          "USB-C-SMD_HC-TYPE-C-16P-026W",
+          "U1",
+          {
+            "Manufacturer Part": "HC-TYPE-C-16P-3M2S",
+            "Manufacturer": "HC(虹成电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19274016"
+          }
+        ]
+      ],
+      "updateTime": 1746869621,
+      "createTime": 1746352526,
+      "histories": [],
+      "created_at": "2025-05-04 17:55:26",
+      "updated_at": "2025-05-10 17:33:41"
+    },
+    {
+      "uuid": "6dc57b7a10db87bd021cbf1fcba397ef",
+      "puuid": "d5d602c1495a20cd0cdd96a9cf7601bf",
+      "title": "PCB_pico-mac",
+      "filename": "PCB_pico-mac.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "f7dd54f89a0d4286a07c114c2b6d06ed": 1,
+        "e141e40e281c4512b6d4d948048abf56": 1,
+        "3e5a8b87313a410ab06e1bc23934c947": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "VGA",
+          1,
+          "DSUB-TH_KH-HDR15P-F3.08-VGA",
+          "D-SUB1",
+          {
+            "Manufacturer Part": "KH-HDR15P-F3.08",
+            "Manufacturer": "kinghelm(金航标)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3038673"
+          }
+        ],
+        [
+          "66",
+          6,
+          "R0603",
+          "CS,MISO,MOSI,R2,R3,SCLK",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PICO",
+          1,
+          "RASPBERRYPI-PICO",
+          "M1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SD",
+          1,
+          "TF-SMD_TF-15-15",
+          "TF1",
+          {
+            "Manufacturer Part": "SD",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900023771"
+          }
+        ],
+        [
+          "POWER-TypeC",
+          1,
+          "USB-C-SMD_HC-TYPE-C-16P-026W",
+          "U1",
+          {
+            "Manufacturer Part": "HC-TYPE-C-16P-3M2S",
+            "Manufacturer": "HC(虹成电子)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19274016"
+          }
+        ]
+      ],
+      "updateTime": 1746444688,
+      "createTime": 1746386334,
+      "histories": [],
+      "created_at": "2025-05-05 03:18:54",
+      "updated_at": "2025-05-05 19:31:28"
+    }
+  ],
+  "sort": [
+    "5998b82e1f50e0b2e30990e61f3bf884"
+  ],
+  "title": "pico-mac",
+  "foldername": "pico-mac",
+  "schfilename": "pico-mac.json",
+  "schfilemtime": 1746869621378
+}

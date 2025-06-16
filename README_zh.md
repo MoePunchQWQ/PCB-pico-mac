@@ -1,10 +1,11 @@
 # Pico-mac 项目的 PCB 原理图以及 Layout 文件
 ---------------------------------
 **其他语言版本: [English](README.md), [中文](README_zh.md).**
-这个仓库内包含了 pico-mac 项目的 PCB 原理图及 layout 文件。原理图绘制和 Layout 均使用**立创 EDA 专业版**来完成。
-![](img/pico_mac_v2.0.jpg =600x)
-![](img/layout.png =300x)
-![](img/schematic.png =700x)
+这个仓库内包含了 pico-mac 项目的 PCB 原理图及 layout 文件。原理图绘制和 Layout 均使用**立创 EDA 专业版**来完成。  
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/pico_mac_v2.0.jpg" width = "420px">
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/layout.png" width = "420px">     
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/schematic.png" width = "420px">   
+
 ## 使用
 ---------------------------------
 你可以直接用仓库内的 **Gerber 文件**制板，也可以将工程文件导入到立创 EDA 专业版中进行修改。

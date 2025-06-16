@@ -12,7 +12,7 @@ You may directly **manufacture the board** using the provided Gerber files, or i
 
 ## Source Files  
 ---------------------------------  
-The silkscreen text on the PCB layout uses the **3dventure** font. This is a free font available for download online.  
+The silkscreen text on the PCB layout uses the **3dventure** font. This is a free font available for you to download online.  
 
 ## Revision History  
 ---------------------------------  

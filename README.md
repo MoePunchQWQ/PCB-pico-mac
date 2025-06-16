@@ -1,10 +1,10 @@
 # PCB Schematic and Layout Files for the Pico-mac Project  
 ---------------------------------  
 **Read this in other languages:[中文](README_zh.md), [English](README.md).**
-This repository contains the PCB schematic and layout files for the pico-mac project. The design was created using **LCEDA Pro (Professional Version)**. I used **DeepSeek** to translate Chinese readme files to an English ver,so there may be some mistakes.
-<img src="https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/pico_mac_v2.0.jpg" width = "210px">  
-![](https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/layout.png)    
-![](https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/schematic.png)    
+This repository contains the PCB schematic and layout files for the pico-mac project. The design was created using **LCEDA Pro (Professional Version)**. I used **DeepSeek** to translate Chinese readme files to an English ver,so there may be some mistakes.    
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/pico_mac_v2.0.jpg" width = "420px">  
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/layout.png" width = "300px">     
+<img src = "https://github.com/MoePunchQWQ/PCB-pico-mac/raw/main/img/schematic.png" width = "300px">      
 
 ## Usage  
 ---------------------------------  
